@@ -39,7 +39,7 @@ SafeGuard Dashboard is a comprehensive web-based monitoring interface built with
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/safeguard-dashboard.git
+git clone https://github.com/Rahul-9211/parent-dashboard.git
 ```
 
 2. Install dependencies:
